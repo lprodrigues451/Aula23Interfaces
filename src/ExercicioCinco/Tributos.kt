@@ -1,0 +1,4 @@
+package ExercicioCinco
+
+interface Tributos {
+}

@@ -1,0 +1,4 @@
+package ExercicioCinco
+
+class SeguroDeVida {
+}
